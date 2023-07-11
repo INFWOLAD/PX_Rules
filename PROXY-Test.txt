@@ -1,0 +1,9 @@
+# NAME: cosz-ProjectX-PROXY
+# AUTHOR: cosz
+# UPDATED: 2023-3-16
+# TOTAL: 4
+payload:
+  - DOMAIN,github.com
+  - DOMAIN-SUFFIX,bing
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bingapis.com
